@@ -233,8 +233,8 @@ main {
   margin-bottom: 0.25rem;
 }
 #job {
-  margin-bottom: 0.5rem;
-  text-transform: uppercase;
+  margin-bottom: 2rem;
+  text-transform: capitalize;
   color: var(--clr-primary-5);
   font-size: 0.85rem;
 }
