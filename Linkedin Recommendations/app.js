@@ -30,7 +30,7 @@ const reviews = [
     name: "Sam Cheung",
     job:
       "Software Development Engineer, SrSoftware Development Engineer, Sr at Yahoo! Inc",
-    img: "./images/profile.jpg",
+    img: "./images/profile4.jpg",
     text:
       "I worked with Nancy frequently and she was amazing. She was always willing to listen with anything that I had questions about and helped me solve them. Nancy was the primary driver for a huge re-branding of an old system that desperately needed a face lift. She worked closely with PMs, UX designers, and users to cover many edge cases and to provide an easier-to-use application. She took a monstrous task and created a beautiful result even on a tight deadline. \r\n\r\nI believe Nancy is a person who would benefit any team and I very much enjoy working with her. Her hard work and personality bring a special spark for any team.",
   },
